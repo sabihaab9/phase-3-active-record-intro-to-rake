@@ -239,6 +239,8 @@ end
 
 Now, running `bundle exec rake db:migrate` should create our students table.
 
+sabiha: where do i see the students table??
+
 ### `rake db:seed`
 
 Another task you will become familiar with is the `seed` task. This task is
